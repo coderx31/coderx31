@@ -25,6 +25,12 @@ You can checkout my portfolio at http://shenalfernando.me/
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coderx31)  
 
 
+![GitHub metrics](https://metrics.lecoq.io/coderx31)  
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coderx31) 
+
+
 
 ![Profile views](https://gpvc.arturio.dev/coderx31) 
 
