@@ -19,6 +19,17 @@ You can checkout my portfolio at http://shenalfernando.me/
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderx31)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coderx31)  
+
+
+
+![Profile views](https://gpvc.arturio.dev/coderx31) 
+
+
+
 
 
 
