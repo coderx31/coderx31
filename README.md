@@ -12,10 +12,10 @@ You can checkout my portfolio at http://shenalfernando.me/
 
 
 ## Skills and Experience
-:electron: React
-:iphone: React Native
-:vibration_mode: Android 
-:computer: Python / Java / Playframework / Angular  Javascript / HTML / CSS
+:electron: React <br>
+:iphone: React Native <br>
+:vibration_mode: Android <br> 
+:computer: Python / Java / Playframework / Angular  Javascript / HTML / CSS <br>
 
 
 
