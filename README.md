@@ -2,6 +2,9 @@
 #### I'm Fullstack Web Developer
 ![I'm Fullstack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+I'm currently studying Computer Science at University of Westminster. I'm improving my skills design, development, testing
+and implementation of programming languages based
+on web-based applications and also android application Development and React Native application Development
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderx31)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills: Python / Java / Playframework / Angular / React / React Native / Android / Javascript / HTML / CSS
