@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shenal Fernando
 #### I'm Fullstack Web Developer
-![I'm Fullstack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm Fullstack Web Developer](https://github.com/coderx31/coderx31/blob/main/banner%20design.jpg)
 
 I'm currently studying Computer Science at University of Westminster. I'm improving my skills design, development, testing
 and implementation of programming languages based
