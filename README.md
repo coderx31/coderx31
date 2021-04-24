@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Shenal Fernando, I'm currently studying Computer Science degree at University of Westminster, I'm improving my skills design, development, testing and implementaion 
+of programming languages based on Web Applications. You can checkout my portfolio at http://shenalfernando.me/ and my LinkedIn at www.linkedin.com/in/shenàl-fernándo-0541a4194
+
+[![Shenal's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderx31)](https://github.com/anuraghazra/github-readme-stats)
