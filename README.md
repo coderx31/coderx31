@@ -9,6 +9,10 @@ on web-based applications and also android application Development and React Nat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderx31)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## Skills and Experience
+:electron: React
+
 Skills: Python / Java / Playframework / Angular / React / React Native / Android / Javascript / HTML / CSS
 
 
