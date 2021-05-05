@@ -5,7 +5,7 @@
 I'm currently studying Computer Science at University of Westminster. I'm improving my skills design, development, testing
 and implementation of programming languages based
 on web-based applications and also android application Development and React Native application Development.
-You can checkout my portfolio at http://shenalfernando.me/
+You can checkout my portfolio at https://shenalfernando.me/
 
 
 [![Shenal's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderx31)](https://github.com/anuraghazra/github-readme-stats)
