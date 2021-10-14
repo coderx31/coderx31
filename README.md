@@ -15,7 +15,7 @@ You can checkout my portfolio at https://www.shenalfernando.me/
 :electron: React <br>
 :iphone: React Native <br>
 :vibration_mode: Android <br> 
-:computer: Python / Java / Playframework / Angular  Javascript / HTML / CSS <br>
+:computer: Python / Java / Golang/ Playframework / Angular  Javascript / HTML / CSS <br>
 
 
 
