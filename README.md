@@ -2,10 +2,7 @@
 #### I'm Fullstack Web Developer
 ![I'm Fullstack Web Developer](https://github.com/coderx31/coderx31/blob/main/banner%20design.jpg)
 
-I'm currently studying Computer Science at University of Westminster. I'm improving my skills design, development, testing
-and implementation of programming languages based
-on web-based applications and also android application Development and React Native application Development.
-You can checkout my portfolio at https://www.shenalfernando.me/
+Computer Science Student at IIT || Backend Engineer at Circles.Life
 
 
 [![Shenal's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderx31)](https://github.com/anuraghazra/github-readme-stats)
