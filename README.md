@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Shenal Fernando
-#### I'm Fullstack Web Developer
 ![I'm Fullstack Web Developer](https://github.com/coderx31/coderx31/blob/main/banner%20design.jpg)
 
 Computer Science Student at IIT || Backend Engineer at Circles.Life
@@ -9,10 +8,8 @@ Computer Science Student at IIT || Backend Engineer at Circles.Life
 
 
 ## Skills and Experience
-:electron: React <br>
-:iphone: React Native <br>
-:vibration_mode: Android <br> 
-:computer: Python / Java / Golang/ Playframework / Angular / Javascript / HTML / CSS <br>
+NodeJS
+Golang
 
 
 
