@@ -22,8 +22,4 @@ Golang
 ![GitHub metrics](https://metrics.lecoq.io/coderx31)  
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coderx31) 
-
-
-
-![Profile views](https://gpvc.arturio.dev/coderx31) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coderx31)
